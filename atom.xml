@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ramblings]]></title>
+  <link href="http://turb0pr0p.github.io/atom.xml" rel="self"/>
+  <link href="http://turb0pr0p.github.io/"/>
+  <updated>2013-08-02T11:14:09-07:00</updated>
+  <id>http://turb0pr0p.github.io/</id>
+  <author>
+    <name><![CDATA[turb0pr0p]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
